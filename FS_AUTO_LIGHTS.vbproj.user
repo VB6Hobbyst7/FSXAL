@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Documents and Settings\nitestryker\Desktop\FS_Auto_Lights\V5\|C:\Documents and Settings\nitestryker\Desktop\FS_Auto_Lights\V4\|C:\Documents and Settings\nitestryker\Desktop\FS_Auto_Lights\V3\|C:\Documents and Settings\nitestryker\Desktop\FS_Auto_Lights\V1\|C:\Documents and Settings\nitestryker\Desktop\FS_Auto_Lights\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
